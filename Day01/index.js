@@ -1,0 +1,1 @@
+console.log("Beginning of Learning JavaScript In Shaa Allah");
