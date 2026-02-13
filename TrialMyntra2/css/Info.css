@@ -1,0 +1,17 @@
+/* 1st I did Built my front page ...
+2nd --Isme Dynamic kya kiya vo hai Elements js Se laana Not manually from HTML
+3rd---Ab Functionality par kamm
+4th---Add Button par kaam karna in index.js
+5th---Ab Jab Humne Kardiya Addtobag button toh hume Na usko add karna hai in bag uss function ko we will write Ok
+6th---function addToBag(itemId)
+7th--- fir Aur ek function displayBagIcon() ye waala Vo numbers ko increase karna cart ke icon mein And All
+8th --- call karne waale functions ko we wrote in onLoad Function() as INDUSTRY FUNCTION!! */
+
+
+
+/* Ab hum Uss cart ke page par aayenge toh Waha First iterate karke 
+
+//Ab vo items add karna sab hogaya 
+//---Now us x mark par click karne se Vo item cancell ho
+//---Fir vo Amount add ho subtract ho ye sab Karna hai
+*/
